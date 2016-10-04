@@ -1,0 +1,28 @@
+html {
+  background-color: ##c9b5ab;
+  font-family: Georgia, serif;
+}
+img {
+  width: 100%;
+
+}
+h1, h2, h3 {
+  font-family: 'PT Sans', sans-serif;
+font-family: 'PT Serif', serif;
+line-height: 1.5;
+  color: #5d8432;
+}
+
+figcaption {
+  text-align: center;
+  font-style: italic;
+}
+
+a {
+  font-family: 'PT Sans', sans-serif;
+font-family: 'PT Serif', serif;
+}
+
+a:hover {
+  color: #b42885;
+}

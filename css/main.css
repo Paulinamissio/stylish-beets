@@ -2,7 +2,6 @@ html {
   background-color: #c9b5ab;
   font-family: Georgia, serif;
     line-height: 1.5;
-    text-decoration: none;
 
 }
 
@@ -11,17 +10,24 @@ img {
 
 }
 
-h1{
+h1 {
   color: #3f1622;
 }
 
-p{
+p {
    font-weight: normal;
 }
+a:hover {
+  color: #222;
+  text-decoration: none;
+}
+a {
+  color: #8f2440;
+  text-decoration: none;
+}
 .vari {
-  color: #3f1622;
-  font-family: 'PT Sans', sans-serif;
-font-size: #1.5rem;
+color: #3f1622;
+font-family: 'PT Sans', sans-serif;
 }
 
 .nutri {

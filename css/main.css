@@ -1,34 +1,40 @@
 html {
   background-color: #c9b5ab;
   font-family: Georgia, serif;
+    line-height: 1.5;
+    text-decoration: none;
+
 }
 
 img {
   width: 100%;
 
 }
-h1, h2, h3 , h4 {
-  font-family: 'PT Sans', sans-serif;
-}
 
 h1{
   color: #3f1622;
-font-size: #1.125rem;
 }
 
-h2{
-color: #3f1622;
-font-size: #1.125rem;
+p{
+   font-weight: normal;
+}
+.vari {
+  color: ##3f1622;
+font-size: #1.5rem;
+font-family: 'PT Sans', sans-serif;
 }
 
-h3{
-  color: #3f1622;
-font-size: #1.125rem;
+.nutri {
+color: ##3f1622;
+font-size: #1.5rem;
+font-family: 'PT Sans', sans-serif;
 }
 
-h4{
-  color: #3f1622;
-  font-size: #1.125rem;
+.tag {
+  color: ##3f1622;
+font-size: #1.5rem;
+font-family: 'PT Sans', sans-serif;
+list-style-type: circle;
 }
 
 ul link {
@@ -38,4 +44,12 @@ ul link {
 
 blockquote {
 font-size: 1.5rem;
+}
+
+cite{
+  font-size: 0.8rem;
+}
+
+figcaption {
+  font-family: 'PT Serif', sans-serif;
 }

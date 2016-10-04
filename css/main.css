@@ -1,35 +1,26 @@
 html {
-  background-color: #8f2440;
+  background-color: #c9b5ab;
   font-family: Georgia, serif;
-  list-style-type: square;
-  line-height: 1.5;
-  font-weight: bold;
-  text-decoration: underline;
 }
-.intro {
-  color:red
-  font-style: 
-}
+
 img {
   width: 100%;
 
 }
-h1, h2, h3 {
+h1, h2, h3 , h4 {
   font-family: 'PT Sans', sans-serif;
 font-family: 'PT Serif', serif;
-  color: #5d8432;
 }
 
-figcaption {
-  text-align: center;
-  font-style: italic;
+h1{
+  color: #3f1622;
+}
+
+a li:last-child{
+   color: #3f1622;
 }
 
 a {
   font-family: 'PT Sans', sans-serif;
 font-family: 'PT Serif', serif;
-}
-
-a:hover {
-  color: #b42885;
 }
